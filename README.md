@@ -1,6 +1,4 @@
-Here's a solid README introduction for your GitHub page:  
 
----
 
 # Welcome to My GitHub 👋  
 
